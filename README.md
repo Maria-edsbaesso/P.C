@@ -1,7 +1,7 @@
 # Demon Slayer 
 O anime conta a história de Tanjiro,um bondoso jovem que ganha a vida vendendo carvão. Sua vida muda após sua família ser morta por um oni e sua irmã mais nova se transformar em um deles. Tanjiro então decide se transformar em um caçador de onis para conseguir transformar sua irmã em humana novamente
 
-## CONHEÇA OS PERSONAGENS DE DEMON SLAYER
+## CONHEÇA ALGUNS DOS PERSONAGENS DE DEMON SLAYER
 
 # Tanjiro kamado
 <img src="tanjiro kamado.jpg">
@@ -33,6 +33,7 @@ O anime conta a história de Tanjiro,um bondoso jovem que ganha a vida vendendo 
 <img src="rui.jpg">
 •lua inferior 5
 •oni
+•idade desconhecida 
 
 # Kanao tsuyuri
 <img src="kanao tsuyuri.jpg">
@@ -44,9 +45,17 @@ O anime conta a história de Tanjiro,um bondoso jovem que ganha a vida vendendo 
 <img src="douma.jpg">
 •lua superior 2
 •oni
+•133 anos
 
 # Aoi Kanzaki
 <img src="aoi kanzaki.jpg">
 •15 anos
+•ajudante da shinobu
 
-# 
+# Yoriichi Tsugikuni
+<img src="yorrichi tsugikuni.jpg">
+•viveu na era sengoku
+•20+ anos
+•caçador de onis
+•respiração do sol
+•o único caçador que conseguiu colocar medo em muzan
